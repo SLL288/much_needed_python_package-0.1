@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+much_needed_python_package/__init__.py
+much_needed_python_package/utils.py
+much_needed_python_package.egg-info/PKG-INFO
+much_needed_python_package.egg-info/SOURCES.txt
+much_needed_python_package.egg-info/dependency_links.txt
+much_needed_python_package.egg-info/top_level.txt
